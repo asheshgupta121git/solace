@@ -4,6 +4,9 @@
 A full-stack mental health support application built with modern AI technologies, designed to provide a safe, judgment-free space for users to share their thoughts, practice mindfulness, and track their wellness journey.
 
 ---
+<p align="center">
+<video src="https://github.com/asheshgupta121git/solace/blob/main/solace%20video.mp4" width="80%" controls></video>
+</p>
 
 ## 🌟 Features
 
