@@ -1213,7 +1213,7 @@ body {
   background: var(--secondary-green);
   border-color: var(--secondary-green);
   border-style: solid;
-  color: white-teal);
+  color: (white-teal);
 }
 
 .water-glass.filled {
